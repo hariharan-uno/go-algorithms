@@ -1,4 +1,11 @@
 Go-algorithms
 -------------
 
-Common algorithm implementations in Go.
+Common algorithms implemented in Go.
+
+Currently Implemented:
+---------------------
+
+* Merge Sort
+* Inversions Count
+* Maze Solver
