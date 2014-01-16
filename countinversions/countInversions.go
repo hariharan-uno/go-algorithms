@@ -16,7 +16,7 @@ func main() {
 	}
 	// close file on exit and check for its returned error
 	// make a read buffer
-	r := bufio.NewReader(fi)
+	r := bufio.NewReader(file)
 	scanner := bufio.NewScanner(r)
 	num := 0
 	for scanner.Scan() {
